@@ -6,7 +6,7 @@ subtitle: <a href='https://cogsci.ucsd.edu/'> Cognitive Science, University of C
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Sean_headshot.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
 
